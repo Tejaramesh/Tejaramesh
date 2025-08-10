@@ -4,7 +4,7 @@
 💼 Currently diving deeper into Automation Testing using Selenium, REST Assured, and JavaScript  
 🌱 Learning: JavaScript, Test Automation best practices  
 🤝 Open to collaborating on: Automation testing frameworks and QA tooling  
-📫 Reach me at: 
+📫 Reach me at: https://www.linkedin.com/in/teja-r-148541198/  [tejaramesh2000@gmail.com]
 
 ---
 
