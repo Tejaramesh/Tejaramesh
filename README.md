@@ -39,13 +39,13 @@
 
 ## 📌 Featured Projects
 
-- 🔧 Automation Frameworks in Java with Selenium & TestNG  
-- 🔬 API Testing Suite with REST Assured and Postman Collections  
-- 🚀 Experiments with JavaScript for Test Automation
+- 🔧 **Scalable Automation Framework** using Java, Selenium, TestNG, and Maven  
+- 🧪 **BDD Testing Framework** with Cucumber and Jenkins integration for CI  
+- 🔬 **API Automation Suite** built with REST Assured and Postman Collections  
+- 🚀 **JavaScript Automation Experiments** using Playwright/Cypress *(learning in progress)*
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 I find debugging flaky tests more satisfying than solving Sudoku puzzles!
-
+💡 I find debugging flaky tests more satisfying than solving Sudoku puzzles — it's like reverse-engineering chaos into clarity!
