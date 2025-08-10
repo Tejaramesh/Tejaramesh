@@ -1,32 +1,41 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Teja Ramesh!
 
-🎯 Passionate about [your focus, e.g., full-stack development, AI, DevOps]  
-💼 Currently working on: [project name or company]  
-🌱 Learning: [current tech you're learning]  
-🤝 Open to collaborating on: [types of projects or tech stack]  
-📫 How to reach me: [email or socials]
+🎯 Passionate about Automation Testing and Quality Engineering  
+💼 Currently diving deeper into Automation Testing using Selenium, REST Assured, and JavaScript  
+🌱 Learning: JavaScript, Test Automation best practices  
+🤝 Open to collaborating on: Automation testing frameworks and QA tooling  
+📫 Reach me at: 
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest--Assured-6DB33F?style=flat&logo=java&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TestNG](https://img.shields.io/badge/TestNG-FF0000?style=flat&logo=java&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub--Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Tejaramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaramesh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaramesh&layout=compact&theme=radical)
+
+---
+
+## 📌 Featured Projects
+
+- 🔧 Automation Frameworks in Java with Selenium & TestNG  
+- 🔬 API Testing Suite with REST Assured and Postman Collections  
+- 🚀 Experiments with JavaScript for Test Automation
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 Did you know? [Insert a fun or nerdy fact about you or tech]
+💡 I find debugging flaky tests more satisfying than solving Sudoku puzzles!
 
