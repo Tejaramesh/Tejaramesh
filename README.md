@@ -24,6 +24,12 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 📈 GitHub Stats
 
 ![Tejaramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaramesh&show_icons=true&theme=radical)
