@@ -23,8 +23,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-JavaScript-45ba4b?style=flat&logo=playwright&logoColor=white)
 
 
-
-
 ---
 
 <!-- Snake Game Repo View -->
@@ -33,10 +31,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📈 GitHub Stats
-
-![Tejaramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaramesh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaramesh&layout=compact&theme=radical)
 
 ---
 
