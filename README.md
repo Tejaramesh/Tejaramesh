@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Teja Ramesh!
 
 🎯 Passionate about Automation Testing and Quality Engineering  
-💼 Currently diving deeper into Automation Testing using Selenium, REST Assured, and JavaScript  
-🌱 Learning: JavaScript, Test Automation best practices  
+💼 Currently diving deeper into Automation Testing using Playwright,TypeScript  
+🌱 Learning: TypeScript, Test Automation best practices  
 🤝 Open to collaborating on: Automation testing frameworks and QA tooling  
 📫 Reach me at: https://www.linkedin.com/in/teja-r-148541198/  [tejaramesh2000@gmail.com]
 
@@ -42,10 +42,10 @@
 
 ## 📌 Featured Projects
 
-- 🔧 **Scalable Automation Framework** using Java, Selenium, TestNG, and Maven  
+- 🔧 **Scalable Automation Framework** using Selenium Java, Playwright with Typescript
 - 🧪 **BDD Testing Framework** with Cucumber and Jenkins integration for CI  
 - 🔬 **API Automation Suite** built with REST Assured and Postman Collections  
-- 🚀 **JavaScript Automation Experiments** using Playwright/Cypress *(learning in progress)*
+- 🚀 **AI Automation Experiments** using Vibe coding*
 
 ---
 
