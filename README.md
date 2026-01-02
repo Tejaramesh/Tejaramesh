@@ -20,6 +20,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub--Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-JavaScript-45ba4b?style=flat&logo=playwright&logoColor=white)
+
+
 
 
 ---
